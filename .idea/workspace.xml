@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8c47f9c-1493-4c02-afe1-57db054b1c20" name="Default" comment="" />
+    <list default="true" id="f8c47f9c-1493-4c02-afe1-57db054b1c20" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_count.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_facet.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_limit.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_match.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_collStats.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_indexStats.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_listLocalSessions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_listSessions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/setup/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/setup/setup.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example1.py" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example1.py" />
+      <change beforePath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_addField.py" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_addField.py" />
+      <change beforePath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_bucket.py" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_bucket.py" />
+      <change beforePath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,28 +33,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="聚合.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="264">
-                <caret line="77" column="20" lean-forward="false" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
-                <folding />
-              </first_editor>
-              <second_editor />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="example_group.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="74" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example_bucket.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_bucket.py">
+      <file leaf-file-name="example_lookup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <state relative-caret-position="0">
+              <caret line="0" column="74" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="74" />
               <folding>
-                <element signature="e#0#27#0" expanded="true" />
+                <element signature="e#2681#3667#0" expanded="false" />
+                <element signature="e#3711#5067#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example_match.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_match.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,6 +76,24 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>collec</find>
+      <find>NumberDecimal</find>
+      <find>collection_drop</find>
+      <find>fstr,</find>
+      <find>warehouse</find>
+      <find>array_join</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Decimal128</replace>
+      <replace>&quot;warehouse&quot;</replace>
+      <replace>join_with_array</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -52,17 +101,31 @@
         <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples.py" />
         <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example2.py" />
         <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/addField_example.py" />
-        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/setup.py" />
         <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_bucket.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_addField.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example1.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_collStats.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_facet.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/setup/setup.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_count.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_indexStats.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_limit.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_listLocalSessions.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_listSessions.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py" />
+        <option value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_match.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="612" />
-    <option name="y" value="15" />
-    <option name="width" value="1222" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -78,6 +141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -123,24 +187,34 @@
               <item name="NoSQLProject" type="462c0819:PsiDirectoryNode" />
               <item name="MongoDB" type="462c0819:PsiDirectoryNode" />
               <item name="pymongodbExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="setup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NoSQLProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NoSQLProject" type="462c0819:PsiDirectoryNode" />
+              <item name="MongoDB" type="462c0819:PsiDirectoryNode" />
+              <item name="pymongodbExamples" type="462c0819:PsiDirectoryNode" />
               <item name="updateExamples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\NoSQLProject\MongoDB\pymongodbExamples\aggregationExamples" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\NoSQLProject\MongoDB\pymongodbExamples\aggregationExamples\reserved" />
+      <recent name="D:\Workspace\NoSQLProject\MongoDB\pymongodbExamples\setup" />
       <recent name="D:\Workspace\NoSQLProject\MongoDB\pymongodbExamples\updateExamples" />
       <recent name="D:\Workspace\NoSQLProject\MongoDB\pymongodbExamples\indexExamples" />
       <recent name="D:\Workspace\NoSQLProject\MongoDB\pymongodbExamples\findExamples" />
-      <recent name="D:\Workspace\NoSQLProject\MongoDB\pymongodbExamples\aggregationExamples" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -155,8 +229,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.addField_example">
-    <configuration name="addField_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.example_lookup">
+    <configuration name="example_bucket" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -168,31 +242,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NoSQLProject" />
-      <option name="SCRIPT_NAME" value="D:\Workspace\NoSQLProject\MongoDB\pymongodbExamples\aggregationExamples\example_addField.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_bucket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="aggregationExamples" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB/pymongodbExamples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NoSQLProject" />
-      <option name="SCRIPT_NAME" value="D:\Workspace\NoSQLProject\MongoDB\pymongodbExamples\aggregationExamples\example1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="example2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -204,42 +260,80 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NoSQLProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example_facet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NoSQLProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_facet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.aggregationExamples" />
-      <item index="2" class="java.lang.String" itemvalue="Python.example2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.addField_example" />
+    <configuration name="example_group" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NoSQLProject" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="example_lookup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NoSQLProject" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.example_bucket" />
+      <item index="1" class="java.lang.String" itemvalue="Python.example_count" />
+      <item index="2" class="java.lang.String" itemvalue="Python.example_facet" />
+      <item index="3" class="java.lang.String" itemvalue="Python.example_group" />
+      <item index="4" class="java.lang.String" itemvalue="Python.example_lookup" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.addField_example" />
-        <item index="1" class="java.lang.String" itemvalue="Python.example2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.aggregationExamples" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.example_lookup" />
+        <item index="1" class="java.lang.String" itemvalue="Python.example_group" />
+        <item index="2" class="java.lang.String" itemvalue="Python.example_facet" />
+        <item index="3" class="java.lang.String" itemvalue="Python.example_count" />
+        <item index="4" class="java.lang.String" itemvalue="Python.example_bucket" />
       </list>
     </recent_temporary>
   </component>
@@ -260,14 +354,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="612" y="15" width="1222" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33614865" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26068377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.120746434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11521739" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.008791209" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -289,87 +383,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_facet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_addField.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        <state relative-caret-position="1392">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="26" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#74#0" expanded="false" />
+            <element signature="e#116#1369#0" expanded="false" />
+            <element signature="e#1383#2083#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="264">
-            <caret line="77" column="20" lean-forward="false" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4224">
+            <caret line="176" column="52" lean-forward="false" selection-start-line="176" selection-start-column="52" selection-end-line="176" selection-end-column="52" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -378,11 +427,195 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_bucket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
+        <state relative-caret-position="744">
           <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1848">
+            <caret line="77" column="20" lean-forward="false" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_addField.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_collStats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_bucket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/setup/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_facet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#74#0" expanded="false" />
+            <element signature="e#116#1369#0" expanded="false" />
+            <element signature="e#1383#2083#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_indexStats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_limit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_listSessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_listLocalSessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="176" column="52" lean-forward="false" selection-start-line="176" selection-start-column="52" selection-end-line="176" selection-end-column="52" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="74" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="74" />
+          <folding>
+            <element signature="e#2681#3667#0" expanded="false" />
+            <element signature="e#3711#5067#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

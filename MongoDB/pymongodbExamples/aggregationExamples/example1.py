@@ -9,4 +9,3 @@ result = db.products.insert_many([
     {'x': 3, 'tags': []}
 ])
 print(result.inserted_ids)
-
