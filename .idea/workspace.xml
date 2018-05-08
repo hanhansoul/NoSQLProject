@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8c47f9c-1493-4c02-afe1-57db054b1c20" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_count.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_facet.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_limit.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_match.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_collStats.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_indexStats.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_listLocalSessions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/reserved/example_listSessions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/setup/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/setup/setup.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example1.py" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example1.py" />
-      <change beforePath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_addField.py" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_addField.py" />
-      <change beforePath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_bucket.py" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_bucket.py" />
-      <change beforePath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md" afterPath="$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/聚合.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,41 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="example_group.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example_lookup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="74" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="74" />
-              <folding>
-                <element signature="e#2681#3667#0" expanded="false" />
-                <element signature="e#3711#5067#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example_match.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_match.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -142,7 +87,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,6 +144,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,15 +328,66 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="74" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="74" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="74" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_facet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1392">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#74#0" expanded="false" />
-            <element signature="e#116#1369#0" expanded="false" />
-            <element signature="e#1383#2083#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,7 +396,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="4224">
             <caret line="176" column="52" lean-forward="false" selection-start-line="176" selection-start-column="52" selection-end-line="176" selection-end-column="52" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -410,7 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -419,7 +413,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -437,7 +430,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1848">
             <caret line="77" column="20" lean-forward="false" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -524,9 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,11 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#74#0" expanded="false" />
-            <element signature="e#116#1369#0" expanded="false" />
-            <element signature="e#1383#2083#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -553,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,15 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,28 +566,29 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="176" column="52" lean-forward="false" selection-start-line="176" selection-start-column="52" selection-end-line="176" selection-end-column="52" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="74" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="74" />
-          <folding>
-            <element signature="e#2681#3667#0" expanded="false" />
-            <element signature="e#3711#5067#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_match.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_lookup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="74" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/pymongodbExamples/aggregationExamples/example_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="74" />
         </state>
       </provider>
     </entry>
